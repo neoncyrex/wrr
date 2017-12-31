@@ -2,5 +2,11 @@
 
 ## Preface
 
+## Use cases
+
 ## Installation
+
+## Configuration
+
+## Author
 
